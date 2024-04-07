@@ -1,0 +1,13 @@
+name: mongo_dev
+title: mongo_dev
+username: big-cat
+account: big-cat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11581356
+bundleId: 8415447
+url: https://big-cat.shinyapps.io/mongo_dev/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: mongo_db_access_DT.R
